@@ -8,3 +8,15 @@
 .reg{
    text-align: center;
 }
+@media{
+    .body{
+    background-color: antiquewhite;
+   
+}
+.head{
+     text-align: center;
+}
+.reg{
+   text-align: center;
+}
+}
